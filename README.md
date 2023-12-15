@@ -1,7 +1,7 @@
 
-# GitHub Profile Page
+# Bootstrap web-design Task
 
-It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class Day-12(HTML & CSS- Day -5) Task.
+It's Bootstrap web-design Task which was designed by me. It's my Guvi-Zen class Day-12(HTML & CSS- Day -5) Task.
 
 ## Tech Stack
 
@@ -12,13 +12,12 @@ It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class
 
 ## Features
 
-- Fullscreen mode
-- Cross platform
+- Responsive Design
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](demo.png)
 
 
 ## Feedback
