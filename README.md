@@ -1,7 +1,7 @@
 
 # Bootstrap web-design Task
 
-It's Bootstrap web-design Task which was designed by me. It's my Guvi-Zen class Day-12(HTML & CSS- Day -5) Task.
+It's Bootstrap web-design Task which was designed by me and which was given by Tutor
 
 ## Tech Stack
 
